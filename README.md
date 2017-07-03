@@ -1,5 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/gODVANP.png" border="0" /></p>
-<p align="center">All [Starbucks](https://www.starbucks.com/) locations in the world.</p>
+
+# starbucks
+
+All [Starbucks](https://www.starbucks.com/) locations in the world.
 
 ## Attribution
 
